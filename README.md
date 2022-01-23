@@ -1,4 +1,7 @@
 Install: npm install <br>
 Compiling: npm run build <br>
 Start Server: npm run serve <br><br>
-https://raw.githubusercontent.com/spiderbuddy411/sprint-vue-ui/main/imagem/home.jpg
+
+<img src=”https://raw.githubusercontent.com/spiderbuddy411/sprint-vue-ui/main/imagem/home.jpg
+” alt=”some text” width=300 height=200>
+
