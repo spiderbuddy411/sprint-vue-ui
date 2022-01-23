@@ -1,2 +1,2 @@
-NPM install packge.json<br>
+NPM install package.json<br>
 run serve
